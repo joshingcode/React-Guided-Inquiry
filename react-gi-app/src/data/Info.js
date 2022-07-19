@@ -1,24 +1,24 @@
 const Info= [
         {
           name: "josh",
-          number: 9802223334,
-          dateOfBirth: "04-12-2003",
+          number: 9801234567,
+          dateOfBirth: "04-27-1996",
           
-          active: false,
+         
         },
         {
           name: "john",
-          number: 9801853134,
+          number: 7044449423,
           dateOfBirth: "04-19-1997",
          
-          active: false,
+        
         },
         {
           name: "bill",
-          number: 7041127634,
+          number: 7041234567,
           dateOfBirth: "10-13-1998",
           
-          active: true,
+          
         },
       ]
 export default Info;
